@@ -1,10 +1,10 @@
-# Alqur'an per kata
+# Marketing Tools
 
-Project ini terinspirasi dari kebutuhan memahami arti alquran yang lebih dalam untuk mengerti kosa kata alquran dalam bahasa arab.
+Project ini terinspirasi dari kebutuhan mempermudah pemasaran dunia digital lewat marketing tools dari email, whatapp dll
 
 ## Dokumentasi
-Informasi lebih lanjut [official site](http://alquran.devinc.website).
+Informasi lebih lanjut [official site](http://marketing.devinc.website).
 
 ## Timeline Progress Software:
-**13 Januari 2024**
-- Mengumpulkan bahan yg dibutuhkan (database bhs arab dan terjemahnnya)
+**12 Februari 2024**
+- Mengumpulkan bahan yg dibutuhkan.
